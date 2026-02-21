@@ -19,7 +19,14 @@ Me chamo Igor Gustavo, tenho 18 anos e sou natural de Pernambuco. Atualmente, es
             src="https://custom-icon-badges.demolab.com/github/followers/igorGustavo919?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+    <div> 
+  <a href="https://www.instagram.com/igorgustavodev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto: igor.gustavo.br007@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/igor-gustavo-33b00a386/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
 </p>
+
 
 ---
 
@@ -101,10 +108,5 @@ Me chamo Igor Gustavo, tenho 18 anos e sou natural de Pernambuco. Atualmente, es
 <br/>
 <br/>
 
-<div> 
-  <a href="https://www.instagram.com/igorgustavodev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto: igor.gustavo.br007@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/igor-gustavo-33b00a386/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+
 
