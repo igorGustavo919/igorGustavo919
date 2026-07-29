@@ -53,12 +53,6 @@ Me chamo Igor Gustavo, tenho 18 anos e sou natural de Pernambuco. Atualmente, es
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
   />
   <img
-    alt="AWS"
-    title="AWS"
-    width="40px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-  />
-  <img
     alt="Git"
     title="Git"
     width="40px"
